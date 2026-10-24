@@ -1,18 +1,33 @@
 # Dungeon Shopkeeper
 
-Find bytte i dungeonen, og sælg det i din egen butik.
+Find loot in the dungeon, and sell it in your very own shop.
 
-## Hent spillet
+## Download the game
 
-1. Gå til **[nyeste version](https://github.com/nicklaslhansen-star/dungeon-shopkeeper-spil/releases/latest)**, og hent filen `Dungeon-Shopkeeper-….zip`.
-2. Pak zip-filen ud (højreklik > Udpak alle).
-3. Dobbeltklik på **Dungeon Shopkeeper.exe**. Siger Windows "Windows beskyttede din pc", så tryk "Flere oplysninger" og "Kør alligevel".
+1. Go to the **[latest version](https://github.com/nicklaslhansen-star/dungeon-shopkeeper-spil/releases/latest)** and download `Dungeon-Shopkeeper-….zip`.
+2. Extract the zip file (right click > Extract All).
+3. Double click **Dungeon Shopkeeper.exe**. If Windows says "Windows protected your PC", click "More info" and then "Run anyway".
 
-Spillet opdaterer sig selv, når der kommer en ny version. Du skal kun hente det her én gang.
+The game updates itself whenever a new version comes out. You only need to download it once, and your saved games are never touched.
 
-Kræver Windows 10/11 og et grafikkort, der kan køre Vulkan.
+Requires Windows 10/11 and a graphics card that supports Vulkan.
+
+## Controls
+
+| | |
+|---|---|
+| Move / jump | WASD / Space |
+| Look around | Mouse |
+| Third / first person | V |
+| Use, talk | E |
+| Backpack / gear | I / C |
+| Town map | M |
+| Build mode (in your shop) | B |
+| Attack / block / heavy attack | Left click / right click / middle click |
+| Dodge / drink a potion | Shift / Q |
+| Close windows | Esc |
 
 ---
 
-Dette repository indeholder kun det færdige spil. Alle rettigheder til spillet forbeholdes.
-Grafik: KayKit af Kay Lousberg (CC0). Ikoner: game-icons.net af Delapouite og Lorc (CC BY 3.0).
+This repository only contains the finished game. All rights reserved.
+Art: KayKit by Kay Lousberg (CC0). Icons: game-icons.net by Delapouite and Lorc (CC BY 3.0).
